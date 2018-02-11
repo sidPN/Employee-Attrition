@@ -9,3 +9,6 @@ Attrition has always been expensive for companies. If there was a robust way to 
 This would be very valuable for companies, as it could inform companies hiring policies, and help them plan for the future as to deciding, how many employees to hire, the vacancies that need to be filled in, project continuity and knowledge transfer tasks and how much should their financial outlay be for new hires depending on the number of people to replace. 
 Hence, this prediction of employees who are possibly looking to leave the company, could be extremely valuable.
 The work outlined in this paper looks at this problem. I am trying to address this research question by trying to determine the factors, which could be relevant to determining what causes an employee to be disgruntled with their work environment and eventually leave.
+
+Analyzed a dataset and determined the factors, which could be relevant to understanding what causes an employee to                             
+be disgruntled with their work environment and eventually leave, using Logistic Regression.
